@@ -1,0 +1,1 @@
+This is a content management system that can let user freely post and update their blogs. It also supports searching for posts. It has additional supports for admin to manage the whole webstie to view or add posts or users. Users can register via registraton link.
